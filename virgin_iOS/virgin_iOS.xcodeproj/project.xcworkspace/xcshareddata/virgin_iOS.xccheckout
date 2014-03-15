@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92D35EB8-8F3B-4272-9FBA-840D1AA5D792</string>
+	<key>IDESourceControlProjectName</key>
+	<string>virgin_iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA92554F-B143-45AB-8048-D97BC433EC11</key>
+		<string>https://github.com/HaoWan/virgin_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>virgin_iOS/virgin_iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA92554F-B143-45AB-8048-D97BC433EC11</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HaoWan/virgin_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA92554F-B143-45AB-8048-D97BC433EC11</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA92554F-B143-45AB-8048-D97BC433EC11</string>
+			<key>IDESourceControlWCCName</key>
+			<string>virgin_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
